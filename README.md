@@ -35,6 +35,14 @@ Developed a discord bot that utilizes OpenAI's ChatGPT APIs to generate response
 
     Copy and paste the two api keys into a .env file. These are required so that the discord bot and chatgpt APIs work.
 
+### Run the Bot
+
+    The bot is started by running the following command:
+
+    python3 run.py
+
+    After which the bot should be online and running in the server. It is at this point the bot can be prompted.
+
 ### Prompt the Bot
 
     The bot can be prompted by using the following commands:
