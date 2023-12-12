@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Developed a discord bot that utilizes OpenAI's ChatGPT APIs to generate responses to queries when prompted. The bot uses gpt-3.5-turbo as the model, if you have access to gpt-4, you can update the model under ![](./app/chatgpt_ai/openai.py) to utilize openai's more powerful chatgpt model for better responses and larger token size.
+Developed a discord bot that utilizes OpenAI's ChatGPT APIs to generate responses to queries when prompted. The bot uses gpt-3.5-turbo as the model, if you have access to gpt-4, you can update the model under 'app/chatgpt_ai/openai.py' to utilize openai's more powerful chatgpt model for better responses and larger token size.
 
 ## Architecture
 
